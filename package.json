@@ -1,0 +1,13 @@
+{
+	"name": "json-compress",
+	"version": "0.0.1",
+	"description": "A quick general purpose compression / minification algorithm for JSON structures",
+	"module": "index.js",
+
+	"files": "index.js",
+	"scripts": {
+		"test": "node test.mjs"
+	},
+	"author": "Martin Middel",
+	"license": "MIT"
+}
