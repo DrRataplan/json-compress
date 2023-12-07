@@ -1,10 +1,9 @@
 {
-	"name": "json-compress",
-	"version": "0.0.1",
+	"name": "@elliat/json-compress",
+	"version": "0.0.2",
 	"description": "A quick general purpose compression / minification algorithm for JSON structures",
-	"module": "index.js",
-
-	"files": "index.js",
+	"module": "index.mjs",
+	"files": ["index.mjs"],
 	"scripts": {
 		"test": "node test.mjs"
 	},

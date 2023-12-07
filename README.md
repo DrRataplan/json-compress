@@ -1,4 +1,4 @@
-# json-minify
+# json-compress
 
 Losslessly JSON objects. This works by renaming any strings in the input to shorter keys, combining
 it with a mapping. This minification applies even when gzipping the whole thing. In a benchmark this
